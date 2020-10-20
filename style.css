@@ -1,0 +1,25 @@
+*{margin: 0px;padding: 0px;}
+img{
+    width: 300px;
+    height: 200px;
+}
+img{border: gold solid 2px;
+   margin-left:80px ;
+}
+h2{
+    color: lightcoral;
+    border: lavenderblush;
+    margin-left: 80px;
+    margin-bottom: 5px;
+    
+    
+}
+ul li{
+    margin-left: 80px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ol li{
+    margin-left: 80px;
+    text-transform: capitalize;
+}
